@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.find.autoFindInSelection": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "prettier.enable": true
+}
